@@ -1,1 +1,5 @@
-$env:GOOGLE_APPLICATION_CREDENTIALS="D:\MR.R\Desarrollo\PORTA\growth_back\growthcode-5f232-firebase-adminsdk-yfmnc-8ff51a7926.json"
+# Backend MERN - Calendar
+
+Backend que creamos en mi curso de React: de cero a experto
+
+fernando-herrera.com
