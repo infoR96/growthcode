@@ -37,6 +37,14 @@ router.post(
 
 router.get('/renew', validarJWT ,revalidarToken );
 
+router.get('/work', (req,res)=>{
+    res.json({
+        ok: true,
+    })
+} );
+
+
+
 
 
 
